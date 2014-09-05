@@ -1,5 +1,5 @@
 #!/bin/sh
-IP=192.168.220.134
+IP=192.168.2.5
 LOGIN=root
 PASSWD=1
 
